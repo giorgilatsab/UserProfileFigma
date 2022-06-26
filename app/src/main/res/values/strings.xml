@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UserProfileFigma</string>
+    <string name="hello">HELLO!</string>
+    <string name="lets_introduce">lets introduce</string>
+    <string name="Your_full_name">Your_full_name</string>
+    <string name="username">Username</string>
+</resources>
